@@ -1,40 +1,40 @@
-1= trojan, jp1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-2= trojan, jp2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-3= trojan, jp3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-4=trojan, jp4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-5=trojan, jp5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 06= vmess, jp6.cnamazon.sbs, 80, username=f245ef6c-e2a8-4547-9884-c458d94688ef, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp6.cnamazon.sbs, ws-headers=Host:jp6.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 7 = trojan, sg1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 8 = trojan, sg3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 9 = trojan, sg2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户10 = trojan, sg4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户11= trojan, sg5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户12= trojan, hk1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户13= trojan, hk2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, hk3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 4 = trojan, hk4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 5 = trojan, hk5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 6 = trojan, bgptw1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, bgptw4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, bgptw5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, us1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, in1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, bgptru1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, 31.210.53.107, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, 157.245.37.47, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, usjjs.ndy58850.me, 26656, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=usjjs.ndy58850.me, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, jp.tokyo2.zhoushuren.top, 25644, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=jp.tokyo2.zhoushuren.top, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, kr.cc1.zhoushuren.top, 58934, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=kr.cc1.zhoushuren.top, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, deguo1.zhudaidaohang.com, 58851, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=deguo1.zhudaidaohang.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, helan1.zhudaidaohang.com, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=helan1.zhudaidaohang.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, 223.ndy58850.me, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=223.ndy58850.me, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, yingguo1.zhoushuren.me, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=yingguo1.zhoushuren.me, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, yindu.ndy58850.me, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=yindu.ndy58850.me, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, doxjp02.588511.xyz, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=doxjp02.588511.xyz, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, 163.123.192.62, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, 163.123.192.63, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, 163.123.192.64, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, 217.79.181.82, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, 43.198.105.210, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, 16.162.26.55, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, 43.198.100.32, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
+01= trojan, jp1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+02= trojan, jp2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+03= trojan, jp3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+04=trojan, jp4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+05=trojan, jp5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+06= vmess, jp6.cnamazon.sbs, 80, username=f245ef6c-e2a8-4547-9884-c458d94688ef, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp6.cnamazon.sbs, ws-headers=Host:jp6.cnamazon.sbs, skip-cert-verify=false, tfo=false
+07 = trojan, sg1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+08 = trojan, sg3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+09 = trojan, sg2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+10 = trojan, sg4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+11= trojan, sg5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+12= trojan, hk1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+13= trojan, hk2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+14 = trojan, hk3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+15 = trojan, hk4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+16 = trojan, hk5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+17 = trojan, bgptw1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+18 = trojan, bgptw4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+19 = trojan, bgptw5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+20 = trojan, us1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+21 = trojan, in1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+22 = trojan, bgptru1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+23 = trojan, 31.210.53.107, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+24 = trojan, 157.245.37.47, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+25 = trojan, usjjs.ndy58850.me, 26656, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=usjjs.ndy58850.me, skip-cert-verify=false, tfo=false
+26 = trojan, jp.tokyo2.zhoushuren.top, 25644, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=jp.tokyo2.zhoushuren.top, skip-cert-verify=false, tfo=false
+27 = trojan, kr.cc1.zhoushuren.top, 58934, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=kr.cc1.zhoushuren.top, skip-cert-verify=false, tfo=false
+28 = trojan, deguo1.zhudaidaohang.com, 58851, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=deguo1.zhudaidaohang.com, skip-cert-verify=false, tfo=false
+29 = trojan, helan1.zhudaidaohang.com, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=helan1.zhudaidaohang.com, skip-cert-verify=false, tfo=false
+30 = trojan, 223.ndy58850.me, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=223.ndy58850.me, skip-cert-verify=false, tfo=false
+31 = trojan, yingguo1.zhoushuren.me, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=yingguo1.zhoushuren.me, skip-cert-verify=false, tfo=false
+32 = trojan, yindu.ndy58850.me, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=yindu.ndy58850.me, skip-cert-verify=false, tfo=false
+33 = trojan, doxjp02.588511.xyz, 58850, password=790385a5-ce0d-4427-a31d-e3c52e01d986, sni=doxjp02.588511.xyz, skip-cert-verify=false, tfo=false
+34 = trojan, 163.123.192.62, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
+35 = trojan, 163.123.192.63, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
+36 = trojan, 163.123.192.64, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
+37 = trojan, 217.79.181.82, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
+38 = trojan, 43.198.105.210, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
+39 = trojan, 16.162.26.55, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
+40 = trojan, 43.198.100.32, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
