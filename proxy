@@ -1,16 +1,16 @@
-+李某人针对没有节点用的用户 = trojan, jp1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, jp2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, jp3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 4 = trojan, jp4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 5 = trojan, jp5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = vmess, jp6.cnamazon.sbs, 80, username=f245ef6c-e2a8-4547-9884-c458d94688ef, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp6.cnamazon.sbs, ws-headers=Host:jp6.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, sg1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 3 = trojan, sg3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 4 = trojan, sg2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 5 = trojan, sg4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 6 = trojan, sg5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 = trojan, hk1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-+李某人针对没有节点用的用户 2 = trojan, hk2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+1= trojan, jp1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+2= trojan, jp2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+3= trojan, jp3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+4=trojan, jp4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+5=trojan, jp5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户 06= vmess, jp6.cnamazon.sbs, 80, username=f245ef6c-e2a8-4547-9884-c458d94688ef, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp6.cnamazon.sbs, ws-headers=Host:jp6.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户 7 = trojan, sg1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户 8 = trojan, sg3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户 9 = trojan, sg2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户10 = trojan, sg4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户11= trojan, sg5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户12= trojan, hk1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
++李某人针对没有节点用的用户13= trojan, hk2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
 +李某人针对没有节点用的用户 3 = trojan, hk3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
 +李某人针对没有节点用的用户 4 = trojan, hk4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
 +李某人针对没有节点用的用户 5 = trojan, hk5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
