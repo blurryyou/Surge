@@ -3,10 +3,10 @@
 03 = vmess, 120.240.163.121, 48465, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
 04 = vmess, 120.226.50.68, 59902, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
 05 = vmess, 185.133.40.192, 35059, username=8d78c2a8-acaa-467d-9234-d2606624506d, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
-06 = vmess, 139.99.131.113, 33505, username=6c04a273-7302-4e09-9ced-aedaaa7461af, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
-07 = vmess, 185.40.86.195, 50002, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
-08 = vmess, 41.215.242.89, 35679, username=ee442f43-b07a-419d-bd27-2d3456393abc, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
-09 = vmess, 154.84.1.91, 443, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, ws=true, ws-path=/path/243535322906, sni=154.84.1.91, ws-headers=Host:www.81960821.xyz, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
+
 10 = trojan, hk5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
 11 = trojan, bgptw1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
 12 = trojan, bgptw4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
@@ -14,56 +14,51 @@
 14 = trojan, bgptru1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
 15 = trojan, 163.123.192.62, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
 16 = trojan, 43.198.105.210, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-17 = vmess, CHT.MIFJUN.ORG, 8082, username=c76bf073-d8c6-4d2d-aa5f-3bbdd3b6d0b2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
+
 18 = trojan, awshk5-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, skip-cert-verify=false, tfo=false, udp-relay=false
 19 = trojan, awshk9-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, skip-cert-verify=false, tfo=false, udp-relay=false
 20 = trojan, awshk15-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
 21 = trojan, awshk14-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-22 = trojan, awshk6-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
 23 = trojan, awshk14-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
 24 = trojan, awshk13-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-25 = trojan, awshk6-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
 26 = trojan, awshk4-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
 27 = trojan, awshk9-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
 28 = trojan, awshk15-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
 29 = trojan, awshk7-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-30 = trojan, awshk5-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-31 = trojan, awshk4-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
 32 = trojan, awshk13-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-33 = vmess, 36.134.16.190, 11023, username=8c042a38-71c1-1dcb-00df-54880236e0dc, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
-34 = trojan, fschk.fscloud123456789.com, 443, password=c3492e02-fa97-4913-adbf-94c8b67288b9, skip-cert-verify=false, tfo=false, udp-relay=false
-35 = trojan, kr4.microsoft-orgwly.vip, 443, password=f3ccb94b-fc75-475a-80e1-b67913115462, skip-cert-verify=false, tfo=false, udp-relay=false
-36 = trojan, awskr1-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, skip-cert-verify=false, tfo=false, udp-relay=false
-37 = trojan, awskr4-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-38 = vmess, 192.74.231.179, 49202, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
-39 = trojan, awskr4-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, skip-cert-verify=false, tfo=false, udp-relay=false
-40 = trojan, awshk19-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-41 = trojan, awskr1-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-42 = trojan, fscuk.fscloud123456789.com, 443, password=eb80128b-aa4d-4741-a87f-62ab98f01157, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
+
+
+
+
+
+
+
 43 = trojan, awshk19-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-44 = trojan, scloudtw2-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-45 = trojan, stw7-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-46 = trojan, us4.microsoft-orgwly.vip, 12059, password=f3ccb94b-fc75-475a-80e1-b67913115462, skip-cert-verify=false, tfo=false, udp-relay=false
-47 = vmess, cf.yxjnode.com, 80, username=09c1d32d-4458-4ebf-b36d-4dd732bae3aa, tls=false, vmess-aead=true, ws=true, ws-path=/yxzbp, sni=cf.yxjnode.com, ws-headers=Host:dp2.yxjnode.com, skip-cert-verify=false, tfo=false, udp-relay=false
-48 = trojan, stw9-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-49 = trojan, stw6-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-50 = trojan, stw6-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-51 = trojan, stw7-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, skip-cert-verify=false, tfo=false, udp-relay=false
-52 = trojan, 103.169.7.11, 80, password=c0d9da22-2569-4bed-a395-607d9e7ae687, sni=sciencedirect.com, skip-cert-verify=false, tfo=false, udp-relay=false
-53 = trojan, 135.148.149.209, 80, password=255c924c-1314-4084-9a9e-1d1a82a5cf49, skip-cert-verify=false, tfo=false, udp-relay=false
-54 = trojan, stw9-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, skip-cert-verify=false, tfo=false, udp-relay=false
-55 = trojan, awshk7-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-56 = vmess, CHT.MIFJUN.ORG, 8082, username=c76bf073-d8c6-4d2d-aa5f-3bbdd3b6d0b2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
-57 = vmess, CHT.MIFJUN.ORG, 8082, username=c76bf073-d8c6-4d2d-aa5f-3bbdd3b6d0b2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
-58 = vmess, hendostan.foriran.nl, 443, username=8357816b-68e4-4a2b-830c-e9bdd369ea22, tls=true, vmess-aead=true, ws=true, ws-path=/7ouWwj1jH2IbuOfQj2chg, sni=hendostan.foriran.nl, ws-headers=Host:hendostan.foriran.nl, skip-cert-verify=false, tfo=false, udp-relay=false
-59 = vmess, 192.203.230.86, 80, username=a442dacf-cbb3-488a-9744-61494ea38630, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=192.203.230.86, ws-headers=Host:us-1.acyun.cf, skip-cert-verify=false, tfo=false, udp-relay=false
-60 = vmess, HK01.ANRUN-IX.TOP, 443, username=2c2aeac9-ba73-42f9-92a8-489c6d78ead1, tls=true, vmess-aead=true, ws=true, ws-path=/, sni=HK01.ANRUN-IX.TOP, ws-headers=Host:HK01.ANRUN-IX.TOP, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 61 = vmess, cf.yxjnode.com, 80, username=09c1d32d-4458-4ebf-b36d-4dd732bae3aa, tls=false, vmess-aead=true, ws=true, ws-path=/yxzbp, sni=cf.yxjnode.com, ws-headers=Host:dp1.yxjnode.com, skip-cert-verify=false, tfo=false, udp-relay=false
 62 = trojan, awshk17-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
 63 = trojan, awshk17-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
 64 = trojan, 16.163.102.234, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-65 = vmess, cf-lt.sharecentre.online, 8080, username=d1fca18b-00ce-4024-8cc8-4b49a4dd5e52, tls=false, vmess-aead=true, ws=true, ws-path=/api/v3/download.getFile, sni=cf-lt.sharecentre.online, ws-headers=Host:ssrsub.v01.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=false
-66 = vmess, 45.92.160.186, 58402, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
-67 = vmess, jp02-vm0.entry.srthdw.art, 448, username=1bc52308-0bd9-30d0-90fd-cef337875d10, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
-68 = vmess, baic.vtcss.top, 80, username=56dbd414-0a3c-40dc-cbbc-48afc94272a1, tls=false, vmess-aead=true, ws=true, ws-path=/hongk, sni=baic.vtcss.top, ws-headers=Host:baic.vtcss.top, skip-cert-verify=false, tfo=false, udp-relay=false
-69 = trojan, stw5-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
