@@ -30,11 +30,11 @@
 
 
 
-33 = trojan, bgptw1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-34 = trojan, bgptw2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
 35 = trojan, bgptw3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
 
-37 = trojan, bgptw5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
+
 
 
 
@@ -62,13 +62,13 @@
 62 = trojan, mf4.zhoushuren.me, 35858, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=mf4.zhoushuren.me, skip-cert-verify=false, tfo=false, udp-relay=false
 63 = trojan, kr.cc2.zhoushuren.top, 25679, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=kr.cc2.zhoushuren.top, skip-cert-verify=false, tfo=false, udp-relay=false
 64 = trojan, mfcc1.588500.xyz, 25565, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=mfcc1.588500.xyz, skip-cert-verify=false, tfo=false, udp-relay=false
-65 = trojan, xn1.zhoushuren.me, 25565, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=xn1.zhoushuren.me, skip-cert-verify=false, tfo=false, udp-relay=false
-66 = trojan, mf8.zhoushuren.me, 58850, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=mf8.zhoushuren.me, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
 67 = trojan, mf5.zhoushuren.me, 58850, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=mf5.zhoushuren.me, skip-cert-verify=false, tfo=false, udp-relay=false
 68 = trojan, yindu.ndy58850.me, 58850, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=yindu.ndy58850.me, skip-cert-verify=false, tfo=false, udp-relay=false
 69 = trojan, jianada1.zhoushuren.me, 36868, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=jianada1.zhoushuren.me, skip-cert-verify=false, tfo=false, udp-relay=false
 70 = trojan, baipiao.tstv2raysse.top, 58850, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=baipiao.tstv2raysse.top, skip-cert-verify=false, tfo=false, udp-relay=false
-71 = trojan, hk13.microsoft-orgwly.vip, 443, password=e3cece65-2cc5-4936-97d9-48695e745671, sni=tls.microsoft-orgwly.vip, skip-cert-verify=false, tfo=false, udp-relay=false
+
 72 = trojan, hk1.microsoft-orgwly.vip, 443, password=e3cece65-2cc5-4936-97d9-48695e745671, sni=tls.microsoft-orgwly.vip, skip-cert-verify=false, tfo=false, udp-relay=false
 73 = trojan, sg11.microsoft-orgwly.vip, 80, password=e3cece65-2cc5-4936-97d9-48695e745671, sni=tls.microsoft-orgwly.vip, skip-cert-verify=false, tfo=false, udp-relay=false
 74 = trojan, sg9.microsoft-orgwly.vip, 443, password=e3cece65-2cc5-4936-97d9-48695e745671, sni=tls.microsoft-orgwly.vip, skip-cert-verify=false, tfo=false, udp-relay=false
@@ -80,5 +80,5 @@
 80 = trojan, hk10.microsoft-orgwly.vip, 12068, password=e3cece65-2cc5-4936-97d9-48695e745671, sni=tls.microsoft-orgwly.vip, skip-cert-verify=false, tfo=false, udp-relay=false
 81 = vmess, sa.zwtg888.com, 12345, username=4384de2d-8906-3292-903d-0ff343406dec, tls=true, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
 82 = vmess, ss2.zwtg888.com, 12345, username=4384de2d-8906-3292-903d-0ff343406dec, tls=true, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
-83 = trojan, ssa.zwtg888.com, 8443, password=4384de2d-8906-3292-903d-0ff343406dec, sni=ssa.zwtg888.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
 84 = vmess, ss3.zwtg888.com, 12345, username=4384de2d-8906-3292-903d-0ff343406dec, tls=true, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
