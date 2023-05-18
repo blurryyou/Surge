@@ -1,60 +1,60 @@
 
 
-03 = vmess, 120.240.163.121, 48465, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
+
 
 05 = vmess, 185.133.40.192, 35059, username=8d78c2a8-acaa-467d-9234-d2606624506d, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=false
 
 
 
 
-10 = trojan, hk5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
+
 11 = trojan, bgptw1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-12 = trojan, bgptw4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-
-14 = trojan, bgptru1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false
-15 = trojan, 163.123.192.62, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
-16 = trojan, 43.198.105.210, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false
 
 
-19 = trojan, awshk9-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, skip-cert-verify=false, tfo=false, udp-relay=false
-20 = trojan, awshk15-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-21 = trojan, awshk14-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
 
 
-24 = trojan, awshk13-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-
-26 = trojan, awshk4-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-27 = trojan, awshk9-tg-data.amazonwebservicess.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
-28 = trojan, awshk15-data.amazon-azure.com, 443, password=4aeda200-44c9-4168-8f2a-a00a72176d35, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
-29 = trojan, awshk7-tg-data.amazonwebservicess.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazonwebservicess.com, skip-cert-verify=false, tfo=false, udp-relay=false
 
 
-32 = trojan, awshk13-data.amazon-azure.com, 443, password=ca7febc2-bb45-4e6d-810e-ab0af6009c4e, sni=data.amazon-azure.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 33 = trojan, bgptw1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
 34 = trojan, bgptw2.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
 35 = trojan, bgptw3.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-36 = trojan, bgptw4.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
+
 37 = trojan, bgptw5.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-38 = trojan, bgptru1.cnamazon.sbs, 443, password=f245ef6c-e2a8-4547-9884-c458d94688ef, sni=tlsdata.cnamazon.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-39 = trojan, 163.123.192.61, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false, udp-relay=false
-40 = trojan, 163.123.192.62, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
 41 = trojan, 217.79.181.82, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false, udp-relay=false
-42 = trojan, 43.198.104.37, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false, udp-relay=false
-43 = trojan, 43.198.123.252, 443, password=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, sni=download.xn--mes358acgm99l.com, skip-cert-verify=false, tfo=false, udp-relay=false
-44 = vmess, downloadvip.cfd, 443, username=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, tls=true, vmess-aead=true, ws=true, ws-path=/jsjc/us1, sni=downloadvip.cfd, ws-headers=Host:us1.jsjc.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-45 = vmess, downloadvip.cfd, 443, username=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, tls=true, vmess-aead=true, ws=true, ws-path=/jsjc/us4, sni=downloadvip.cfd, ws-headers=Host:us4.jsjc.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-46 = vmess, downloadvip.cfd, 443, username=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, tls=true, vmess-aead=true, ws=true, ws-path=/jsjc/de1, sni=downloadvip.cfd, ws-headers=Host:de1.jsjc.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-47 = vmess, downloadvip.cfd, 443, username=984bd5e3-565e-4f91-ab8d-3e4ea3bad32b, tls=true, vmess-aead=true, ws=true, ws-path=/jsjc/jp1, sni=downloadvip.cfd, ws-headers=Host:jp1.jsjc.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-48 = trojan, 163.123.192.37, 443, password=371eac8e-2395-41f9-93ec-918935e36400, sni=download.xn--mes358a9urctx.com, skip-cert-verify=false, tfo=false, udp-relay=false
-49 = trojan, 163.123.192.40, 443, password=371eac8e-2395-41f9-93ec-918935e36400, sni=download.xn--mes358a9urctx.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
+
+
+
+
+
 50 = trojan, 217.79.184.18, 443, password=371eac8e-2395-41f9-93ec-918935e36400, sni=download.xn--mes358a9urctx.com, skip-cert-verify=false, tfo=false, udp-relay=false
-51 = trojan, 163.123.192.56, 443, password=371eac8e-2395-41f9-93ec-918935e36400, sni=download.xn--mes358a9urctx.com, skip-cert-verify=false, tfo=false, udp-relay=false
-52 = trojan, 18.162.118.125, 443, password=371eac8e-2395-41f9-93ec-918935e36400, sni=download.xn--mes358a9urctx.com, skip-cert-verify=false, tfo=false, udp-relay=false
-53 = trojan, 16.162.49.7, 443, password=371eac8e-2395-41f9-93ec-918935e36400, sni=download.xn--mes358a9urctx.com, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
 54 = trojan, 18.162.228.177, 443, password=371eac8e-2395-41f9-93ec-918935e36400, sni=download.xn--mes358a9urctx.com, skip-cert-verify=false, tfo=false, udp-relay=false
-55 = vmess, downloadvip.cfd, 443, username=371eac8e-2395-41f9-93ec-918935e36400, tls=true, vmess-aead=true, ws=true, ws-path=/djjc/us1, sni=downloadvip.cfd, ws-headers=Host:us1.djjc.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-56 = vmess, downloadvip.cfd, 443, username=371eac8e-2395-41f9-93ec-918935e36400, tls=true, vmess-aead=true, ws=true, ws-path=/djjc/de1, sni=downloadvip.cfd, ws-headers=Host:de1.djjc.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
-57 = vmess, downloadvip.cfd, 443, username=371eac8e-2395-41f9-93ec-918935e36400, tls=true, vmess-aead=true, ws=true, ws-path=/djjc/jp1, sni=downloadvip.cfd, ws-headers=Host:jp1.djjc.sbs, skip-cert-verify=false, tfo=false, udp-relay=false
+
+
+
 58 = trojan, linsg1.zhoushuren.me, 25565, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=linsg1.zhoushuren.me, skip-cert-verify=false, tfo=false, udp-relay=false
 59 = trojan, linsg2.zhoushuren.me, 25565, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=linsg2.zhoushuren.me, skip-cert-verify=false, tfo=false, udp-relay=false
 60 = trojan, usjjs.ndy58850.me, 35858, password=ea78c186-7ef1-47f1-a945-c126b6449937, sni=usjjs.ndy58850.me, skip-cert-verify=false, tfo=false, udp-relay=false
