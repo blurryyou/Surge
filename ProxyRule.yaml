@@ -1,0 +1,5 @@
+# NAME: 个人用补充黑名单代理规则
+
+payload:
+  - DOMAIN-SUFFIX,sadtxt.com
+  - DOMAIN-SUFFIX,yattazen.com
