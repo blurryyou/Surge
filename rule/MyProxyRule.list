@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,yattazen.com
 # imgur
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imgurinc.com
+
+# AO3
+DOMAIN-KEYWORD,archiveofourown
