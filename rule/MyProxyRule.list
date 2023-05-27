@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,sadtxt.com
 DOMAIN-SUFFIX,yattazen.com
+DOMAIN-KEYWORD,bulianglin
 
 # imgur
 DOMAIN-SUFFIX,imgur.com
@@ -7,3 +8,4 @@ DOMAIN-SUFFIX,imgurinc.com
 
 # AO3
 DOMAIN-KEYWORD,archiveofourown
+
