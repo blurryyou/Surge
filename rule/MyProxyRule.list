@@ -6,9 +6,7 @@ DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,blogblog.com
 
 
-# imgur
-DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,imgurinc.com
+
 
 # AO3
 DOMAIN-KEYWORD,archiveofourown
