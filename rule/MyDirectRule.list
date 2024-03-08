@@ -7,3 +7,8 @@ DOMAIN-SUFFIX,wanmeibus.com
 DOMAIN-KEYWORD,mihoyo
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-KEYWORD,globalsign
+
+# clash meta 进程规则
+PROCESS-NAME,QQLiveService.exe
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,QQProtect.exe
