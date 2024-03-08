@@ -8,8 +8,12 @@ DOMAIN-KEYWORD,mihoyo
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-KEYWORD,globalsign
 DOMAIN-KEYWORD,dogecloud
+DOMAIN-KEYWORD,bhsr
+
 # clash meta 进程规则
+
 PROCESS-NAME,QQLiveService.exe
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,QQProtect.exe
+
 PROCESS-NAME,360tray.exe
