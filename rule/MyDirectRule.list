@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,dogecloud
 DOMAIN-KEYWORD,bhsr
 DOMAIN-SUFFIX,biliimg.com
 DOMAIN-KEYWORD,pullywood
-
+DOMAIN-KEYWORD,colorfulclouds
 # clash meta 进程规则
 
 PROCESS-NAME,QQLiveService.exe
