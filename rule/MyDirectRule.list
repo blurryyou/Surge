@@ -3,16 +3,11 @@ DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,bbqcp.com
-
 DOMAIN-SUFFIX,hstypay.com
 DOMAIN-SUFFIX,hfairport.com
-
 DOMAIN-SUFFIX,myunidays.uk
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,wanmeibus.com
-
-
-
 # 关键词
 DOMAIN-KEYWORD,globalsign
 DOMAIN-KEYWORD,dogecloud
@@ -22,10 +17,8 @@ DOMAIN-KEYWORD,colorfulclouds
 DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,mihoyo
 # clash meta 进程规则
-
 PROCESS-NAME,QQLiveService.exe
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,QQProtect.exe
-
 PROCESS-NAME,360tray.exe
 
