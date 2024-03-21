@@ -29,6 +29,7 @@ DOMAIN-KEYWORD,pullywood
 DOMAIN-KEYWORD,colorfulclouds
 DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,mihoyo
+DOMAIN-KEYWORD,miyoushe
 # clash meta 进程规则
 PROCESS-NAME,QQLiveService.exe
 PROCESS-NAME,QQ.exe
