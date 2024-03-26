@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,claude.ai
+
+DOMAIN-KEYWORD,poecdn
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
