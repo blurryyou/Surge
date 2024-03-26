@@ -1,5 +1,6 @@
 PROCESS-NAME,Poe.exe
 PROCESS-NAME,Telegram.exe
+PROCESS-NAME,GoogleDriveFS.exe
 
 
 DOMAIN-SUFFIX,sadtxt.com
