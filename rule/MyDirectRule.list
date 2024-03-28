@@ -1,3 +1,23 @@
+# clash meta 进程规则
+PROCESS-NAME,QQLiveService.exe
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,QQProtect.exe
+PROCESS-NAME,360tray.exe
+PROCESS-NAME,KOOK.exe
+PROCESS-NAME,UplayWebCore.exe
+PROCESS-NAME,upc.exe
+PROCESS-NAME,StarRail.exe
+
+# 关键词
+DOMAIN-KEYWORD,globalsign
+DOMAIN-KEYWORD,dogecloud
+DOMAIN-KEYWORD,bhsr
+DOMAIN-KEYWORD,pullywood
+DOMAIN-KEYWORD,colorfulclouds
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,mihoyo
+DOMAIN-KEYWORD,miyoushe
+
 #域名
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bilicomic.com
@@ -23,21 +43,5 @@ DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,yandanshe.com
 
 
-# 关键词
-DOMAIN-KEYWORD,globalsign
-DOMAIN-KEYWORD,dogecloud
-DOMAIN-KEYWORD,bhsr
-DOMAIN-KEYWORD,pullywood
-DOMAIN-KEYWORD,colorfulclouds
-DOMAIN-KEYWORD,weixin
-DOMAIN-KEYWORD,mihoyo
-DOMAIN-KEYWORD,miyoushe
-# clash meta 进程规则
-PROCESS-NAME,QQLiveService.exe
-PROCESS-NAME,QQ.exe
-PROCESS-NAME,QQProtect.exe
-PROCESS-NAME,360tray.exe
-PROCESS-NAME,KOOK.exe
-PROCESS-NAME,UplayWebCore.exe
-PROCESS-NAME,upc.exe
-PROCESS-NAME,StarRail.exe
+
+
