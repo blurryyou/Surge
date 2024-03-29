@@ -7,6 +7,7 @@ PROCESS-NAME,KOOK.exe
 PROCESS-NAME,UplayWebCore.exe
 PROCESS-NAME,upc.exe
 PROCESS-NAME,StarRail.exe
+PROCESS-NAME,ZFGameBrowser.exe
 
 # 关键词
 DOMAIN-KEYWORD,globalsign
