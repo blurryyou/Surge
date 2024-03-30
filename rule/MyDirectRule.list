@@ -9,15 +9,7 @@ PROCESS-NAME,upc.exe
 PROCESS-NAME,StarRail.exe
 PROCESS-NAME,ZFGameBrowser.exe
 
-# 关键词
-DOMAIN-KEYWORD,globalsign
-DOMAIN-KEYWORD,dogecloud
-DOMAIN-KEYWORD,bhsr
-DOMAIN-KEYWORD,pullywood
-DOMAIN-KEYWORD,colorfulclouds
-DOMAIN-KEYWORD,weixin
-DOMAIN-KEYWORD,mihoyo
-DOMAIN-KEYWORD,miyoushe
+
 
 #域名
 DOMAIN-SUFFIX,bitwarden.com
@@ -32,6 +24,7 @@ DOMAIN-SUFFIX,icpapi.com
 
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
+DOMAIN-SUFFIX,liyin.space
 DOMAIN-SUFFIX,myunidays.uk
 
 DOMAIN-SUFFIX,st.dl.eccdnx.com
